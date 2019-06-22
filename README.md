@@ -8,7 +8,7 @@ This is a soldering and programming class in Circuitpython that includes an easy
 This class occurs in two parts -- Soldering and Programming.
 
 We'll be soldering parts and headers  onto a custom printed circuit board(PCB).  
-This board is a copy of the ![Adafruit Feather nrf52840 express](https://www.adafruit.com/product/4062).  
+This board is a copy of the [Adafruit Feather nrf52840 express](https://www.adafruit.com/product/4062).  
 
 When you connect from USB to your computer it shows up as an external hard drive with pre-loaded example scripts.
 
