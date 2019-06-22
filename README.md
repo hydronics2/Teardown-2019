@@ -1,7 +1,9 @@
-# Circuitpython_February_2019
-This is a soldering and programming class in Circuitpython
+# Teardown 2019 - Soldering and Web BLE tutorial
+This is a soldering and programming class in Circuitpython that includes an easy Web Ble demo
 
-[github.com/hydronics2/circuitpython_february_2019](https://github.com/hydronics2/Circuitpython_February_2019)
+[![IMAGE ALT TEXT HERE](https://youtu.be/q24QmTUplko/0.jpg)](https://youtu.be/q24QmTUplko)
+
+[github.com/hydronics2/Teardown-2019](https://github.com/hydronics2/Teardown-2019)
 
 This class occurs in two parts -- Soldering and Programming.
 
