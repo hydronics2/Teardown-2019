@@ -16,25 +16,25 @@ const ctx = document.getElementById('chart').getContext('2d');
 const chart = new Chart(ctx,{
 	type: 'line',
 	data: {
-		labels: [0],
+		labels: xlabels,//[0],
 		datasets: [
 		{
 			label: 'X - Axis',
-			data: [0],
+			data: xaccel,//[0],
 			backgroundColor: 'rgba(128, 182, 244, 0.2)',
 			borderColor: 'rgba(128, 182, 244, 1)',
 			borderWidth: 1
 		},
 		{
 			label: 'Y - Axis',
-			data: [0],
+			data: yaccel,//[0],
 			backgroundColor: 'rgba(179,181,198,0.2)',
 			borderColor: 'rgba(179,181,198,1)',
 			borderWidth: 1
 		},
 		{
 			label: 'Z - Axis',
-			data: [0],
+			data: zaccel,//[0],
 			backgroundColor: 'rgba(255, 99, 132, 0.2)',
 			borderColor: 'rgba(255, 99, 132, 1)',
 			borderWidth: 1
@@ -64,25 +64,23 @@ async function updateChart(data){
 	chart.data.datasets[0].data.push(data.getUint8(0));
 	chart.data.datasets[1].data.push(data.getUint8(1));
 	chart.data.datasets[2].data.push(data.getUint8(2));
+	
 	chart.update();
 	
-	if(arraySize <= 50) arraySize++;
 	
-	if(arraySize > 50)
+	
+	if(arraySize < 35) arraySize++;
+	else
 	{
-		//chart.data.labels.pop();
-		//chart.data.datasets.forEach((dataset) => {
-        //dataset.data.pop();
-		//});
-		//chart.update();
+		xlabels.shift(); //removes oldest data point
+		xaccel.shift();
+		yaccel.shift();
+		zaccel.shift();
 	}
-    
+    //chart.update();
 	//xlabels.push(timeStart);
 	//xaccel.push(data.getUint8(0));
 	//yaccel.push(data.getUint8(1));
 	//zaccel.push(data.getUint8(2));
-	
-	//if(xaccel.push > 20) myChart.removeData();
-		
 	
 }
