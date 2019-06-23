@@ -43,7 +43,7 @@ The red, green, and blue LEDs can have values from 0 to 255.
 
 ## analog_in_example
 Modify the code.py script and unomment analog_in_example.
-Try plugging in both the potentiometer and photocell to see how the analog-to-digital converter(ADC) on pin A3 interprets the signals.
+Try plugging in both the potentiometer and photocell to see how the analog-to-digital converter(ADC) on pin A0 interprets the signals.
 ###
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/pot1.JPG)
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/pot2.JPG)
