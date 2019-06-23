@@ -14,7 +14,7 @@ When you connect from USB to your computer it shows up as an external hard drive
 
 [Soldering Tutorial](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/README.md)
 
-[Programming Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/README.md)
+[Programming Tutorial](https://github.com/hydronics2/Teardown-2019/blob/master/programming/README.md)
 
 ![alt text](https://github.com/hydronics2/Teardown-2019/blob/master/top.JPG)
 
