@@ -6,6 +6,7 @@ Grab yourself a $20 SWD programmer from [digikey/mouser](https://www.mouser.com/
 You'll need to populate (solder) the SWD header onto the board and then plug in your programmer, erase the chip, and flash the hex bootloader.
 
 nrfjprog -f nrf52 --eraseall
+
 nrfjprog --program feather_nrf52840_express_bootloader-0.2.11_s140_6.1.1.hex --chiperase -f nrf52 --reset
 
 Once the hex firmware is flashed, a folder will open (FTHR840BOOT) and you can pull the latest circuitpython firmware, UF2 file, over into the folder. As of 6/19/19 it is the following:
