@@ -25,7 +25,10 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 Current limiting resistors for the LEDs. ~330ohms but anywhere from 220 to 510 is fine.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/5_resistors_at_CS.JPG)
-2 x 22ohm resistors for that connect the USB lines to the uController and one 10K pullup for the reset signal.
+
+2 x 22ohm resistors connect the USB lines to the uController 
+1 x 10K pullup for the reset signal.
+1 x 10uH ferrite inductor that filters high frequency noise per the mfg recommended layout
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/6_10uf_caps.JPG)
 10uF caps along side the bluetooth module per the MFG recomended board layout.
