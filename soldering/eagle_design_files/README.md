@@ -1,6 +1,6 @@
 # Printed Circuit Board
 
-This circuit board was designed in Eagle.
+This circuit board was designed in Eagle. Order the board on [Oshpark](https://oshpark.com/shared_projects/lrZVLJYK).
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/schematic.JPG)
 
