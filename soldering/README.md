@@ -5,6 +5,8 @@ Parts list
 - [LIS3DH Accelerometer](https://www.aliexpress.com/item/CJMCU-LIS3DSH-High-resolution-Three-axis-Accelerometer-Triaxial-Accelerometer-Module-LIS3DH/32879796761.html?)
 )
 
+Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5d5a690db9).
+
 
 [Here's the schematic](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/schematic.pdf)
 
