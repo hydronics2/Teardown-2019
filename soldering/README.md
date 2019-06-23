@@ -55,8 +55,5 @@ LEDs!! pic whatever color you want. They are directional! Ask your neighbor if y
 solder the male headers onto the little acclerometer board.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/ws2812.JPG)
-![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/22.jpg)
-
-Solder 3 wires onto the potentiometer.
 
 That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
