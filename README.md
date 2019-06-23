@@ -12,7 +12,7 @@ This board is a copy of the [Adafruit Feather nrf52840 express](https://www.adaf
 
 When you connect from USB to your computer it shows up as an external hard drive with pre-loaded example scripts.
 
-[Soldering Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/README.md)
+[Soldering Tutorial](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/README.md)
 
 [Programming Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/README.md)
 
