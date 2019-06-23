@@ -3,17 +3,10 @@
 # see below all the python scripts. remove the '#' one at a time to run the script.
 # they start with a1,a2,a3 because python doesn't like files starting with numbers: 1_, 2_
 
-
-import a1_blink_digital_out_example
-#import a2_accelerometer_led
-#import a3_play_wav_file
-#import a4_ws2812_example
-
-#import digital_input_example 
-#import pwm_example
+#import blink
+#import accelerometer_led # ... working!
+#import ws2812_example
 #import analog_in_example
-#import accelerometer_wav
+import blue_tooth_advertising
+#import pwm_example
 #import play_tone
-
-
- 

@@ -1,7 +1,7 @@
 # CircuitPython demo - NeoPixel aka ws2812 Strip LEDs
 
-# On this uController, we use D5, 5V, and ground(GND)... see picture as a hookup guide
-# D5 is a special pin that is uses 5V logic (not 3.3V like the other pins)
+# On this board, we use A0, 5V, and ground(GND)... see picture as a hookup guide
+#
 
 # purchase these in 1meter and 5meter strips from adafruit.com, sparkfun.com, or rayWu's aliexpress store
 
@@ -9,7 +9,7 @@ import time
 import board
 import neopixel
 
-pixel_pin = board.D5
+pixel_pin = board.A0
 num_pixels = 8
 
 pixels = neopixel.NeoPixel(pixel_pin, num_pixels, brightness=0.3, auto_write=False)

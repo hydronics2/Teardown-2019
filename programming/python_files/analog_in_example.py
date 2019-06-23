@@ -11,17 +11,17 @@ import time
 import board
 from analogio import AnalogIn
 from digitalio import DigitalInOut, Direction
- 
-analog_in = AnalogIn(board.A3)
 
-yellowLed = DigitalInOut(board.A1) #A1 is the yellow LED that doesn't do PWM
+analog_in = AnalogIn(board.A0) # A2 is working (A1 and A3 seem non responsive)
+
+yellowLed = DigitalInOut(board.D13) #A1 is the yellow LED that doesn't do PWM
 yellowLed.direction = Direction.OUTPUT
- 
- 
+
+
 def get_voltage(pin):
     return (pin.value * 3.3) / 65536
- 
- 
+
+
 while True:
     analogValue = get_voltage(analog_in)
     print((analogValue,))

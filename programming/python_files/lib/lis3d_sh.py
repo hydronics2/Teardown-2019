@@ -80,7 +80,8 @@ class LIS3DH:
     """Driver base for the LIS3DH accelerometer."""
     def __init__(self, int1=None, int2=None):
         # Check device ID.
-        device_id = self._read_register_byte(_REG_WHOAMI) #changed from 0x33 to 0x3F for LIS3DSH
+        device_id = self._read_register_byte(_REG_WHOAMI) #changed from 0x33 to 0x3F for LIS3DSH...
+        #print(device_id)
         if device_id != 0x3F:
             raise RuntimeError('Failed to find LIS3DH!')
         # Reboot
