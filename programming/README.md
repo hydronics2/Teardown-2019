@@ -14,14 +14,14 @@ LOAD the code.py script. Code.py determines which scripts run. Uncomment the fil
 
 # 
 ## blink
-LOAD the "a1_blink_digital_out_example.py" script that's currently running. It blinks the LED on pin 13. An internal LED also blinks. Try blinking the other LEDs on pins A1 and A2. In my case I labeled them greenLed and yellowLed. Hit the SERIAL button to see the print statements.
+LOAD the "blink.py" script that's currently running. It blinks the LEDs on pin 13, pin 3, and BLUE_LED pin. Try adjusting the time.sleep(x) to speed up the blinking. 
 ###
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/blink.jpg)
 # 
 
 ## accelerometer
-Modify the code.py script and uncomment a2_accelerometer_led.
-![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/a2_accelerometer_code.JPG)
+Modify the code.py script and uncomment accelerometer_led.
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/accelerometer.jpg)
 ###
 The script lights up an LED with increasing tilt.
 When you use a print statement with double perenthesis it allows the data to the plotter; such as, print((x,y,z)).
