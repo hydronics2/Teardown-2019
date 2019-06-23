@@ -9,7 +9,7 @@ nrfjprog -f nrf52 --eraseall
 
 nrfjprog --program feather_nrf52840_express_bootloader-0.2.11_s140_6.1.1.hex --chiperase -f nrf52 --reset
 
-Once the hex bootloader is flashed, a folder will open (FTHR840BOOT) and you'll see the USB enumerate. If you have the board files loaded into Arduion, the port will show up as a Feather nrf52840.
+Once the hex bootloader is flashed, a folder will open (FTHR840BOOT) and you'll see the USB enumerate. If you have the board files loaded into Arduion, the port will show up as a Feather nrf52840.  Try uploading an Arduino blink sketch for fun.
 
 Next you simply pull the latest circuitpython firmware, UF2 file, over into the FTHR840BOOT folder. As of 6/19/19 the uf2 file looks like this:
 adafruit-circuitpython-feather_nrf52840_express-en_US-4.0.1.uf2
