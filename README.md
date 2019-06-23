@@ -18,6 +18,6 @@ When you connect from USB to your computer it shows up as an external hard drive
 
 ![alt text](https://github.com/hydronics2/Teardown-2019/blob/master/top.JPG)
 
-![](https://github.com/hydronics2/Teardown-2019/blob/master/bottom.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/bottome.JPG)
 
 
