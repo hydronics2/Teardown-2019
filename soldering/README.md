@@ -6,7 +6,7 @@ Parts list
 )
 
 
-[Here's the schematic](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/eagle_design_files/schematic.pdf)
+[Here's the schematic](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/schematic.pdf)
 
 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/1.JPG)
