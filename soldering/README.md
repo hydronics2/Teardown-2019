@@ -3,10 +3,13 @@
 Parts list
 - [Nordic Semiconductor nrf52840 bluetooth module](https://www.adafruit.com/product/4078)
 - [LIS3DH Accelerometer](https://www.aliexpress.com/item/CJMCU-LIS3DSH-High-resolution-Three-axis-Accelerometer-Triaxial-Accelerometer-Module-LIS3DH/32879796761.html?)
-)
+- [SPI QUAD FLASH 2MB Memory](https://www.digikey.com/product-detail/en/gigadevice-semiconductor-hk-limited/GD25Q16CTIGR/1970-1010-1-ND/9484760)
 
 
-[Here's the schematic](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/eagle_design_files/schematic.pdf)
+Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5d5a690db9).
+
+
+[Here's the schematic](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/schematic.pdf)
 
 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/1.JPG)
