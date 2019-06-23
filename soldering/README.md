@@ -27,7 +27,9 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/5_resistors_at_CS.JPG)
 
 2 x 22ohm resistors connect the USB lines to the uController 
+
 1 x 10K pullup for the reset signal.
+
 1 x 10uH ferrite inductor that filters high frequency noise per the mfg recommended layout
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/6_10uf_caps.JPG)
@@ -37,11 +39,14 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 5mm pitch screw headers that we'll use for connecting wires and potentiometers.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/8_crystal.JPG)
-32.768khz crystal and assocated caps... These are 20pF!!!! not 10 as show on the silkscreen.
-Also see the one 100nF(0.1uF) capacitor that serves the aref line per the mfg layout.
+1 x 32.768khz crystal 
+
+2 x caps along side the crystal. these are 20pF!!!! not 10 as show on the silkscreen.
+
+1 x 100nF(0.1uF) bypass capacitor that serves the aref signal per the mfg layout.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/9_100uF.JPG)
-One 100uF capacitor serving the 3.3v regulator per the mfg layout.
+1 x 100uF capacitor serving the 3.3v regulator per the mfg layout.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/10_leds.JPG)
 LEDs!! pic whatever color you want. They are directional! Ask your neighbor if you don't know.
