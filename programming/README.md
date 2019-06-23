@@ -24,7 +24,7 @@ LOAD the blue_tooth_advertising.py script.  Next open a chrome browser and conne
 ###
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/ble.JPG)
 # 
-![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/chrome_ble .JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/chrome_ble.JPG)
 # 
 
 ## accelerometer
