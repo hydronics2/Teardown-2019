@@ -10,7 +10,7 @@ Download and install the [MU editor](https://learn.adafruit.com/welcome-to-circu
 ## code.py
 LOAD the code.py script. Code.py determines which scripts run. Uncomment the files you would like to run.
 ###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/code2.py.jpg)
+![](https://github.com/hydronics2/Tearedown-2019/blob/master/programming/pics/code2.py.jpg)
 
 # 
 ## a1_blink_digital_out_example
