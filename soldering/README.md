@@ -56,4 +56,5 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/ws2812.JPG)
 
+## Solder 3 lines onto some WS2812 LEDs.
 ## That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
