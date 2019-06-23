@@ -2,7 +2,7 @@
 
 If you need to flash a bare board... [here are some steps..](https://github.com/hydronics2/Teardown-2019/blob/master/programming/firmware/README.md)
 
-I uploaded the above python scripts onto your Adafruit M0 board. When you plug the unit into your board it appears as a flash drive.
+I uploaded the python scripts onto the 2MB SPI Flash chip before the class. When you plug the unit into your board it appears as a flash drive.
 
 Download and install the [MU editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor) if you have not done so already.
 
