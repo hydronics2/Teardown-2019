@@ -3,4 +3,4 @@
 This test jig accepted pogo pins. Once the nrf52840 was put on the board, I used this test jig to verify all the pins were function; that is, all the BGA pads were successfully soldered.
 
 ... need a picture of the test jig here...
-[](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/test_jig_top.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/test_jig_top.JPG)
