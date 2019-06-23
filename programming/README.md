@@ -26,7 +26,7 @@ Modify the code.py script and uncomment accelerometer_led.
 The script lights up an LED with increasing tilt.
 When you use a print statement with double perenthesis it allows the data to the plotter; such as, print((x,y,z)).
 ###
-![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/accel_plotter.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/accel_plot.jpg)
 # 
 
 ## ws2812_example
