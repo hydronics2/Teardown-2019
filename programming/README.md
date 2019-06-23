@@ -1,6 +1,6 @@
 # CircuitPython
 
-If you need to flash a bare board... here are some steps..
+If you need to flash a bare board... [here are some steps..](https://github.com/hydronics2/Teardown-2019/blob/master/programming/firmware/README.md)
 
 I uploaded the above python scripts onto your Adafruit M0 board. When you plug the unit into your board it appears as a flash drive.
 
