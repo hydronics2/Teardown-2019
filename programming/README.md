@@ -13,38 +13,26 @@ LOAD the code.py script. Code.py determines which scripts run. Uncomment the fil
 ![](https://github.com/hydronics2/Tearedown-2019/blob/master/programming/pics/code2.py.jpg)
 
 # 
-## a1_blink_digital_out_example
+## blink
 LOAD the "a1_blink_digital_out_example.py" script that's currently running. It blinks the LED on pin 13. An internal LED also blinks. Try blinking the other LEDs on pins A1 and A2. In my case I labeled them greenLed and yellowLed. Hit the SERIAL button to see the print statements.
 ###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a1_blink.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/a1_blink.JPG)
 # 
 
-## a2_accelerometer_led
+## accelerometer
 Modify the code.py script and uncomment a2_accelerometer_led.
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a2_accelerometer_code.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/a2_accelerometer_code.JPG)
 ###
 The script lights up an LED with increasing tilt.
 When you use a print statement with double perenthesis it allows the data to the plotter; such as, print((x,y,z)).
 ###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/accel_plotter.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/accel_plotter.JPG)
 # 
 
-## a3_play_wav_file
-Modify the code.py script and unomment a3_play_wav_file
-###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav.JPG)
-###
-5 wav files for you try. They are in the sounds folder. Uncomment the files to play each one.. and/or make your own. 
-Save files as 22 KHz or less because the circuitpython can't handle more data than that and the DAC(digital-to-analog-converter) output is 10-bit so anything over 16-bit will just take up room without better quality.
-###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav2.JPG)
-# 
-
-
-## a4_ws2812_example
+## ws2812_example
 Modify the code.py script and unomment a4_ws2812_example
 ###
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/ws2812_1.JPG)
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/ws2812_1.JPG)
 ###
 solder three leads onto your LED strip on the correct side (start of the arrow). Insert the LEDs into the screw headers.
 LOAD the sketch and modify the "num_leds" variable to the number of LEDs in your strip.
