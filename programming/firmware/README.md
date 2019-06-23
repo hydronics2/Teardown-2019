@@ -1,4 +1,4 @@
-# Programming from scratch.
+# Flashing a new nrf52840 module
 
 Download [nrfjprog command line utility](https://www.nordicsemi.com/?sc_itemid=%7B56868165-9553-444D-AA57-15BDE1BF6B49%7D) from nordic semiconductor
 
