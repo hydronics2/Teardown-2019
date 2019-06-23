@@ -3,7 +3,8 @@
 Parts list
 - [Nordic Semiconductor nrf52840 bluetooth module](https://www.adafruit.com/product/4078)
 - [LIS3DH Accelerometer](https://www.aliexpress.com/item/CJMCU-LIS3DSH-High-resolution-Three-axis-Accelerometer-Triaxial-Accelerometer-Module-LIS3DH/32879796761.html?)
-)
+- [SPI QUAD FLASH 2MB Memory](https://www.digikey.com/product-detail/en/gigadevice-semiconductor-hk-limited/GD25Q16CTIGR/1970-1010-1-ND/9484760)
+
 
 Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5d5a690db9).
 
