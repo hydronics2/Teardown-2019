@@ -19,6 +19,14 @@ LOAD the "blink.py" script that's currently running. It blinks the LEDs on pin 1
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/blink.jpg)
 # 
 
+## Web Ble
+LOAD the blue_tooth_advertising.py script.  Next open a chrome browser and connect through the browser using this address: [https://thomashudson.org/ble](https://thomashudson.org/ble). You have to use the https!
+###
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/ble.JPG)
+# 
+![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/chrome.ble.JPG)
+# 
+
 ## accelerometer
 Modify the code.py script and uncomment accelerometer_led.
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/accelerometer.jpg)
