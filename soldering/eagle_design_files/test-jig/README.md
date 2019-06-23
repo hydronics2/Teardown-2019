@@ -1,9 +1,6 @@
-# Printed Circuit Board
+# Test Jig
 
-This circuit board was designed in Eagle. Order the board on [Oshpark](https://oshpark.com/shared_projects/lrZVLJYK).
+This test jig accepted pogo pins. Once the nrf52840 was put on the board, I used this test jig to verify all the pins were function; that is, all the BGA pads were successfully soldered.
 
-![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/schematic.JPG)
-
-![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/eagle_design_files/blank_top.JPG)
-
-![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/eagle_design_files/blank_bottom.JPG)
+... need a picture of the test jig here...
+![test_jig](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/test_jig_top.JPG)
