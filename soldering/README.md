@@ -60,5 +60,5 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/22.jpg)
 
-Solder 3 wires onto the potentiometer.
+## Solder 3 wires onto the potentiometer.
 ## That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
