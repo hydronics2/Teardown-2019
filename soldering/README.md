@@ -1,5 +1,6 @@
-# Soldering
+# Soldering Instructions
 
+## https://github.com/hydronics2/Teardown-2019
 Parts list
 - [Nordic Semiconductor nrf52840 bluetooth module](https://www.adafruit.com/product/4078)
 - [LIS3DH Accelerometer](https://www.aliexpress.com/item/CJMCU-LIS3DSH-High-resolution-Three-axis-Accelerometer-Triaxial-Accelerometer-Module-LIS3DH/32879796761.html?)
