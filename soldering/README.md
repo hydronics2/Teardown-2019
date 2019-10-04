@@ -21,7 +21,6 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/3_3.3Voltage_reg.JPG)
 ## 3.3volt regulator and 100n(0.1uF) capacitor
-
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/4_330ohmResistors.JPG)
 ## 4 x Current limiting resistors for the LEDs. ~330ohms but anywhere from 220 to 510 is fine.
 
