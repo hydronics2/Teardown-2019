@@ -26,7 +26,7 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/5_resistors_at_CS.JPG)
 
-## 2 x 22ohm resistors connect the USB lines to the uController 
+## 2 x 22ohm resistors connect the USB lines to the uController
 
 ## 1 x 10K pullup for the reset signal.
 
@@ -39,7 +39,7 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 ## 5mm pitch screw headers that we'll use for connecting wires and potentiometers.
 
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/8_crystal.JPG)
-## 1 x 32.768khz crystal 
+## 1 x 32.768khz crystal
 
 ## 2 x caps along side the crystal. these are 20pF!!!! not 10 as show on the silkscreen.
 
@@ -57,4 +57,8 @@ Full parts list on [mouser](https://www.mouser.com/ProjectManager/ProjectDetail.
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/ws2812.JPG)
 
 ## Solder 3 lines onto some WS2812 LEDs.
+
+![](https://github.com/hydronics2/Teardown-2019/blob/master/soldering/pics/22.jpg)
+
+Solder 3 wires onto the potentiometer.
 ## That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
