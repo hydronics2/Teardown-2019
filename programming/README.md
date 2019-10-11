@@ -20,7 +20,7 @@ LOAD the "blink.py" script that's currently running. It blinks the LEDs on pin 1
 # 
 
 ## Web Ble
-LOAD the blue_tooth_advertising.py script.  Next open a chrome browser and connect through the browser using this address: [https://thomashudson.org/ble](https://thomashudson.org/ble). You have to use the https!
+LOAD the blue_tooth_advertising.py script.  Next open a chrome browser and connect through the browser using this address: [BLE WEB App](https://storage.googleapis.com/www.thomashudson.org/ble/index.html). You have to use the https!
 ###
 ![](https://github.com/hydronics2/Teardown-2019/blob/master/programming/pics/ble.JPG)
 # 
