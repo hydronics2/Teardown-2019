@@ -6,7 +6,7 @@ I uploaded the python scripts onto the 2MB SPI Flash chip before the class. When
 
 Download and install the [MU editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor) if you have not done so already.
 
-Finally, to find more example code, go through Adafruit's [great tutoria](https://learn.adafruit.com/welcome-to-circuitpython?view=all)
+Finally, to find more example code, go through Adafruit's [great tutorial](https://learn.adafruit.com/welcome-to-circuitpython?view=all)
 
 
 ## code.py
